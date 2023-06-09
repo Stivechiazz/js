@@ -1,0 +1,35 @@
+.insta {
+    width: 30%;
+    height: 75vh;
+    /* background-color: bisque; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 1px gray;
+}
+input {
+    width: 60%;
+    padding: 8px 30px;
+    border: solid 0.05px;
+}
+.btn {
+    width: 75%;
+    padding: 8px;
+    background-color: rgb(94, 94, 244);
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    color: #fff;
+}
+img {
+    margin-right: 10px;
+}
+.acc {
+    width: 28%;
+    height: 15vh;
+    display: flex;
+    margin-top: 10px;
+    padding-left: 15px;
+    align-items: center;
+    border:solid 1px gray;
+}

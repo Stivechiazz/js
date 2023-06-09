@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.body {
+    width: 30%;
+    height: 70vh;
+    background-color: rgba(19, 17, 17, 0.454);
+    border: solid 1px grey;
+    border-radius: 10px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+}
+.btn {
+    background-color: red;
+    padding: 14px;
+    width: 80%;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.info {
+    padding: 12px;
+    background-color: rgba(187, 184, 184, 0.557);
+    border-bottom: solid 3px rgb(232, 232, 26);
+    font-size: small;
+    color: #f7f0f0;
+    width: 80%;
+    
+}
+.tick {
+    border: none;
+    border-radius: 5px;
+}
+p span {
+    color: white;
+    font-weight: bold;
+}
